@@ -1,3 +1,3 @@
 # SimpleTodo
-## A CodePath project for practicing Android Studio
+A CodePath project for practicing Android Studio
 
