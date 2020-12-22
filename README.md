@@ -26,17 +26,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/zEHQpOm.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/zEHQpOm.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Learn how to install Android Studio 
+Learn how to install Android Studio
 
 Get the basic of how to build a simple app and get it to function
 
-Troubleshooting and correct issues such as unenable magnet to drap button, create new files, importing FileUtils library, etc
+Troubleshooting and correct issues such as enable magnet to move elements for RelativeLayout, create new files, importing FileUtils library, etc
 
 Learn how to deal with Git by using Github for Windows
 
